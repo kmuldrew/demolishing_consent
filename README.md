@@ -7,3 +7,5 @@ The initial draft (Ver. 0.5, uploaded on July 27, 2024) is only a first pass. Pl
 
 GitHub won't properly render the pdf, so click on the download icon to get the file after clicking on it:
 ![github](https://github.com/user-attachments/assets/bf66aa17-8016-4d28-9bad-46ecb9ed4c3a)
+
+The formatting on the epub is a bit wonky but it's readable.
